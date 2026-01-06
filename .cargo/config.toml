@@ -1,0 +1,3 @@
+[build]
+rustflags = ["-C", "target-cpu=native", "-Zlocation-detail=none", "-Zfmt-debug=none", "-Zunstable-options"]
+# linker = "rust-lld.exe"
